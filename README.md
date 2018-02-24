@@ -1,10 +1,10 @@
-##CSE 332 Lab 0: Ranks, Suits, Cards and Files
+## CSE 332 Lab 0: Ranks, Suits, Cards and Files
 
-###Development environment
+### Development environment
 - Macbook Pro
 - Clion
 
-###TODO
+### TODO
 - read in and parse command line arguments
 - open a file and read in strings from it
 - parse those strings as the definitions of cards in a standard playing deck for bridge, cribbage, poker, etc
